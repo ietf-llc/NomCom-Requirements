@@ -18,7 +18,7 @@ IETF LLC is organized as a “disregarded entity” of the Internet Society ("IS
 
 All board directors are unpaid volunteers.
 
-The board is responsible for setting broad strategic direction for IETF LLC on administrative, legal, financial and other non-technical areas. The board is responsible for hiring and supervising an Executive Director. The Executive Director is responsible for managing the day-to-day affairs of IETF LLC, including hiring staff to carry out the LLC’s responsibilities.
+The board is responsible for setting broad strategic direction for the IETF on administrative, legal, financial and other non-technical areas. The board is responsible for hiring and supervising an Executive Director. The Executive Director is responsible for managing the day-to-day affairs of IETF LLC, including hiring staff to carry out the LLC’s responsibilities.
 
 The board’s other responsibilities include adopting an annual budget, adopting employee benefit plans, consulting the IETF community on matters as appropriate, and approving entering into agreements that meet a significant materiality threshold. Ideally, some board directors are positioned to play an active role in helping to secure financial resources for the IETF and to leverage personal connections that help the staff identify and solicit potential funders. The board’s work is high-level and strategic; the board is expected to delegate management of day-to-day activities and related decision-making to staff.
 
@@ -33,8 +33,7 @@ Ideal candidates for the role of board director should have prior professional e
 *   Working with geographically and culturally diverse colleagues and populations; 
 *   Communicating with a variety of audiences to build support for the mission of the IETF or a similar organization.  \
 
-
-Preference may be given to candidates with non-profit or corporate board experience and/or experience with the IETF or other similar technical or standards development organizations.
+Non-profit or corporate board experience and/or experience with the IETF or other similar technical or standards development organizations is helpful in fulfilling this role..
 
 It seems unlikely that each candidate will bring all of this experience individually. Thus, the NomCom may wish to focus on selecting directors with complementary skills and experience.
 
@@ -43,7 +42,7 @@ It seems unlikely that each candidate will bring all of this experience individu
 Requirements for the role of board director include:
 
 *   Taking on legal and fiduciary responsibility for IETF LLC.
-*   Familiarizing him/herself with the IETF’s mission, history, structure, and culture.
+*   Familiarity or the ability to familiarize him/herself with the IETF’s mission, history, structure, and culture.
 *   Traveling to board meetings multiple times per year. The number of meetings per year, their locations, decisions about co-locating them with IETF meetings, and availability of travel funding will be decided at the board’s discretion with input from the IETF community.
 *   Attending regular conference calls, potentially in different time zones outside of normal business hours.
 *   Preparing for board meetings and calls in advance and actively participating in board discussions.
@@ -51,7 +50,6 @@ Requirements for the role of board director include:
 *   Operating transparently and engaging openly with the IETF community and staff.
 *   Acting in compliance with all applicable laws, regulations, and board policies.
 
- \
 It is anticipated that board directors will spend an average of four hours per week on the board’s work.
 
  **Additional Notes for the 2022 NomCom**
