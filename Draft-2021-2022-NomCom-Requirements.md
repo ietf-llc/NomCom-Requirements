@@ -1,4 +1,4 @@
-DRAFT FOR COMMENT
+FINAL FOR 2021 NOMCOM CYCLE - UPDATED 23 AUGUST 2021
 
 **IETF Administration LLC  \
 Board Director Role**
