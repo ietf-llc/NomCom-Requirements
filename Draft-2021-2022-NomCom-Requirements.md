@@ -30,8 +30,8 @@ Ideal candidates for the role of board director should have prior professional e
 *   Financial management and budgeting on a seven-figure scale;
 *   Working with legal counsel to address organization-related legal and compliance issues;
 *   Fundraising in the non-profit sector;
-*   Working with geographically and culturally diverse colleagues and populations; 
-*   Communicating with a variety of audiences to build support for the mission of the IETF or a similar organization.  \
+*   Working with geographically and culturally diverse colleagues and populations; and
+*   Communicating with a variety of audiences to build support for the mission of the IETF or a similar organization.
 
 Non-profit or corporate board experience and/or experience with the IETF or other similar technical or standards development organizations is helpful in fulfilling this role..
 
