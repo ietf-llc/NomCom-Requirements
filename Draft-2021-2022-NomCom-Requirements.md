@@ -33,7 +33,7 @@ Ideal candidates for the role of board director should have prior professional e
 *   Working with geographically and culturally diverse colleagues and populations; and
 *   Communicating with a variety of audiences to build support for the mission of the IETF or a similar organization.
 
-Non-profit or corporate board experience and/or experience with the IETF or other similar technical or standards development organizations is helpful in fulfilling this role..
+Non-profit or corporate board experience and/or experience with the IETF or other similar technical or standards development organizations is helpful in fulfilling this role.
 
 It seems unlikely that each candidate will bring all of this experience individually. Thus, the NomCom may wish to focus on selecting directors with complementary skills and experience.
 
