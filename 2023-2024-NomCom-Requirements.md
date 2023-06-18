@@ -53,7 +53,7 @@ Requirements for the role of board director include:
 It is anticipated that board directors will spend an average of four hours per week on the board’s work.
 
  **Additional Notes for the Current NomCom**
- 
+
  * There is one Director slot open for the IETF NomCom, for a three year term. 
- * This person will replace Peter Van Roste [https://datatracker.ietf.org/person/peter@centr.org]. Peter is term-limited, as he is at the end of his second consecutive term pursuant to RFC 8711 [https://datatracker.ietf.org/doc/html/rfc8711#section-6.5]
- * Peter was originally nominated as one of the Directors with experience outside of the IETF community but with experience in the broader Internet ecosystem. As three of the five current Directors are long-time IETF contributors, the IETF LLC Board strongly suggests that the NomCom find a candidate like Peter that brings independent views and diverse experience from outside the IETF.
+ * This person will replace Maja Andjelcovic[https://datatracker.ietf.org/person/Maja%20Andjelkovic]. Maja is term-limited, as she is at the end of her second consecutive term pursuant to RFC 8711 [https://datatracker.ietf.org/doc/html/rfc8711#section-6.5]
+ * Maja was originally nominated as one of the Directors with experience outside of the IETF community and with expertise in the entrepreneurship ecosystem. As three of the five current Directors are long-time IETF contributors, the IETF LLC Board strongly suggests that the NomCom find a candidate like Maja that brings independent views and diverse experience from outside the IETF.
