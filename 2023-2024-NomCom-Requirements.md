@@ -1,4 +1,4 @@
-FINAL FOR 2023 NOMCOM CYCLE - UPDATED 18 JUNE 2023
+FINAL FOR 2023 NOMCOM CYCLE - UPDATED 22 JUNE 2023
 
 **IETF Administration LLC  \
 Board Director Role**
@@ -56,4 +56,4 @@ It is anticipated that board directors will spend an average of four hours per w
 
  * There is one Director slot open for the IETF NomCom, for a three year term. 
  * This person will replace Maja Andjelcovic[https://datatracker.ietf.org/person/Maja%20Andjelkovic]. Maja is term-limited, as she is at the end of her second consecutive term pursuant to RFC 8711 [https://datatracker.ietf.org/doc/html/rfc8711#section-6.5]
- * Maja was originally nominated as one of the Directors with experience outside of the IETF community and with expertise in the entrepreneurship ecosystem. As three of the five current Directors are long-time IETF contributors, the IETF LLC Board strongly suggests that the NomCom find a candidate like Maja that brings independent views and diverse experience from outside the IETF.
+ * Maja was originally nominated as one of the Directors with experience outside of the IETF community and with expertise in the entrepreneurship ecosystem. As three of the five current Directors are long-time IETF contributors, the IETF LLC Board strongly suggests that the NomCom find another candidate that brings independent views and diverse experience from outside the IETF.
