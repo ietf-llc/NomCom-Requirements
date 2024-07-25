@@ -55,5 +55,5 @@ It is anticipated that board directors will spend an average of four hours per w
  **Additional Notes for the Current NomCom**
 
  * There is one Director slot open for the IETF NomCom, for a three year term. 
- * This person will replace Maja Andjelcovic[https://datatracker.ietf.org/person/Maja%20Andjelkovic]. Maja is term-limited, as she is at the end of her second consecutive term pursuant to RFC 8711 [https://datatracker.ietf.org/doc/html/rfc8711#section-6.5]
- * Maja was originally nominated as one of the Directors with experience outside of the IETF community and with expertise in the entrepreneurship ecosystem. As three of the five current Directors are long-time IETF contributors, the IETF LLC Board strongly suggests that the NomCom find another candidate that brings independent views and diverse experience from outside the IETF.
+ * This person will replace [Jason Livinggood](https://datatracker.ietf.org/person/Jason_Livingood@comcast.com). Jason is term-limited, as he is at the end of his second consecutive term pursuant to RFC 8711 [https://datatracker.ietf.org/doc/html/rfc8711#section-6.5]. He has served as the LLC Board Chair since he was appointed to the LLC Board. Note that the LLC Board has a success plan in place to pick a future chair.
+ * Jasno was originally nominated as one of the Directors with experience inside of the IETF community and with strong executive experience. The IETF LLC Board strongly suggests that the NomCom find another candidate that brings experience from inside the IETF.
